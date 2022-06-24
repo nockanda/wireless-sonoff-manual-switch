@@ -1,6 +1,16 @@
 # wireless-sonoff-manual-switch
 Make a manual switch to control the Sonoff Basic R2!
 
+Sonoff basic r2 is controlled by esp8266 board.
+
+Esp8266 boards are capable of ESPNOW communication with each other!
+
+Therefore, wireless communication is possible without special equipment!
+
+When the sonoff is embedded in the ceiling, it cannot be controlled without a smartphone!
+
+Sometimes you just need a button that you can remote control manually!
+
 ![499-2_bb](https://user-images.githubusercontent.com/106683637/175529352-55a658d6-ad98-46ae-92e4-f01e1f705de7.jpg)
 
 The video below is the process of uploading the esphome firmware to sonoff basic r2!
